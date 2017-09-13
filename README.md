@@ -1,2 +1,4 @@
 # hello-world
-some stuff
+Hi Person reading this!
+
+Pass the aux cord fam
